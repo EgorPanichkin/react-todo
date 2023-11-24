@@ -1,0 +1,27 @@
+h1 {
+  color:  #4EA8DE;
+  font-family: 'Inter', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+
+span {
+  color: #5E60CE;
+}
+
+img {
+  width: 22px;
+  height: 36px;
+}
+
+.header {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+  background-color: #0D0D0D;
+}

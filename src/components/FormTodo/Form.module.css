@@ -1,0 +1,37 @@
+.container{
+  display: flex;
+  width: 736px;
+  margin: -27px auto;
+  align-items: center;
+  gap: 8px;
+}
+
+input {
+  display: flex;
+  padding: 16px;
+  align-items: center;
+  gap: 8px;
+  flex: 1 0 0;
+  border-radius: 8px;
+  border: 1px solid #0D0D0D;
+  background: #262626;
+  color: #808080;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.create {
+  display: flex;
+  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 8px;
+  background: #1E6F9F;  
+  color:#F2F2F2;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
